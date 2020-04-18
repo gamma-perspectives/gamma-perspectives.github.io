@@ -102,4 +102,4 @@ start dominating.
     lines(prevalance_array,npv,type="l",col="red")
     legend(0.1,0.8,legend=c("ppv","npv"),col=c("blue","red"),lty=1:2)
 
-![](unnamed-chunk-1-1.png)
+![](/medical-tests/unnamed-chunk-1-1.png)
